@@ -50,7 +50,7 @@ Astro JS 是一个用于构建高性能、内容为中心的网站的 web 框架
 ### 创建SSHkey
 
 
-在开始菜单栏找到Git，打开`git bash` 输入ssh-keygen
+在开始菜单栏找到Git，打开`git bash` 输入```ssh-keygen```
 
 
 ![会出现接下来的提示](https://i.imgtg.com/2023/03/09/YY2LG.jpg)
@@ -109,7 +109,9 @@ Astro JS 是一个用于构建高性能、内容为中心的网站的 web 框架
 接下来cd到克隆的过来的仓库根目录输入以下命令更新依赖。
 
 
-`npm install`
+```bash
+npm install
+```
 
 
 ### 第四步启动本地调试服务
@@ -118,7 +120,9 @@ Astro JS 是一个用于构建高性能、内容为中心的网站的 web 框架
 到克隆到本地的博客目录运行以下代码
 
 
-`npm run dev`
+```bash
+npm run dev
+```
 
 
 出现下图表示运行成功
@@ -130,7 +134,9 @@ Astro JS 是一个用于构建高性能、内容为中心的网站的 web 框架
 接着浏览器运行
 
 
-`https://localhost:3000`
+```bash
+https://localhost:3000
+```
 
 
 发现可以正常进入完成。
