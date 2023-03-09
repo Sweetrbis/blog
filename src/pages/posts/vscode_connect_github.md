@@ -15,17 +15,20 @@ featured: true
 
 ![使用vscode直接同步编辑好的文件到github的仓库](https://i.imgtg.com/2023/03/09/YS0xC.png)
 
-## 步骤
+
 ### 安装Git
-- 首先去git的官网`https://git-scm.com/`安装git，这没什么好说的就是注意安装的路径不能出现中文。
+
+首先去git的官网`https://git-scm.com/`安装git，注意安装的路径不能出现中文。
 
 ### 安装Vscode
-- 这也没什么好说的直接去官网安装就好了
+
+官网安装即可
 
 ### 使用安装好的Git设置全局的用户名和邮箱地址
+
 打开开始找到`Git Bash`
 
-![d](https://i.imgtg.com/2023/03/09/Y0JIU.png)
+![d](https://i.imgtg.com/2023/03/09/Y0QaG.png)
 
 输入以下命令
 ```
@@ -38,12 +41,8 @@ featured: true
 ### 进行连接管理github仓库
 
 打开`vscode`，`Ctrl + Shift + P`打开命令行输入git pull
-![出现下图](https://i.imgtg.com/2023/03/09/Y0gax.jpg)
-就是第一个，然后会提示我们输入URL就是你仓库的链接，复制好之后直接粘贴就好了。
-
-好了之后会提示我们将文件保存在哪里，随便放就是路径也不能出现中文。存好之后应该就可以了。
-
-接着你可以直接创建一个新的文件，例如`xxx.md`，接着按下面图片走![这个](https://i.imgtg.com/2023/03/09/Y0mNj.jpg)
+![出现下图](https://i.imgtg.com/2023/03/09/Y0Lyr.png)
+就是第一个，然后会提示我们输入URL就是你仓库的链接，复制好之后直接粘贴就好了。好了之后会提示我们将文件保存在哪里，随便放就是路径也不能出现中文。存好之后应该就可以了。接着你可以直接创建一个新的文件，例如`xxx.md`，接着按下面图片走![这个](https://i.imgtg.com/2023/03/09/Y0EsM.png)
 
 `注意vscode的顶部中间会提示你输入ssh的密码，这是自己设置的。`
 
