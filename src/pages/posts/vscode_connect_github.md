@@ -9,8 +9,8 @@ cover:
     square: 'https://i.imgtg.com/2023/03/09/YS0xC.png'
     alt: 'cover'
 tags: ["Github", "Vscode"]
-theme: 'light'
-featured: true
+theme: 'dark'
+featured: flase
 ---
 
 ![使用vscode直接同步编辑好的文件到github的仓库](https://i.imgtg.com/2023/03/09/YS0xC.png)
@@ -26,9 +26,7 @@ featured: true
 
 ### 使用安装好的Git设置全局的用户名和邮箱地址
 
-打开开始找到`Git Bash`
-
-![d](https://i.imgtg.com/2023/03/09/Y0JIU.png)
+打开开始菜单找到`Git Bash`
 
 输入以下命令
 ```
