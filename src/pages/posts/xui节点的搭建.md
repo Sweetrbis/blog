@@ -51,7 +51,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 3：cloudflare绑定了你的域名。
 
 
-首先到<a harf='https://dash.cloudflare.com/'>Cloudflare的仪表盘</a>，接着点开User Profile > API Tokens。
+首先到<a href='https://dash.cloudflare.com/'>Cloudflare的仪表盘</a>，接着点开User Profile > API Tokens。
 
 
 ![](https://i.imgtg.com/2023/03/13/fmp0L.jpg)
@@ -69,7 +69,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ![](https://i.imgtg.com/2023/03/13/fmtHt.jpg)
 
 
-<a harf='https://dash.cloudflare.com/'>Cloudflare</a>主页选择自己的域名（上面步骤xui绑定的域名）点击DNS，打开小云朵即可。
+<a href='https://dash.cloudflare.com/'>Cloudflare</a>主页选择自己的域名（上面步骤xui绑定的域名）点击DNS，打开小云朵即可。
 
 
 ![](https://i.imgtg.com/2023/03/13/fm4Xx.jpg)
