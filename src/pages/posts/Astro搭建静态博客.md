@@ -8,7 +8,7 @@ cover:
     url: 'https://i.imgtg.com/2023/03/09/YYQXj.png'
     square: 'https://i.imgtg.com/2023/03/09/YYQXj.png'
     alt: 'cover'
-tags: ["Astro", "Blog"]
+tags: ["Astro", "Blog","所有文章"]
 theme: 'light'
 featured: true
 ---

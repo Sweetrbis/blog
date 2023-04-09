@@ -8,7 +8,7 @@ cover:
     url: 'https://i.imgtg.com/2023/03/13/fym9S.png'
     square: 'https://i.imgtg.com/2023/03/13/fym9S.png'
     alt: 'cover'
-tags: ["xui", "cloudflare"]
+tags: ["xui", "cloudflare","所有文章"]
 theme: 'dark'
 featured: true
 ---

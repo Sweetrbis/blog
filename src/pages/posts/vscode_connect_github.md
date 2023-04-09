@@ -8,7 +8,7 @@ cover:
     url: 'https://i.imgtg.com/2023/03/09/YS0xC.png'
     square: 'https://i.imgtg.com/2023/03/09/YS0xC.png'
     alt: 'cover'
-tags: ["Github", "Vscode"]
+tags: ["Github", "Vscode","所有文章"]
 theme: 'dark'
 featured: flase
 ---
